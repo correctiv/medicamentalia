@@ -232,6 +232,14 @@ gulp.task('jekyll-build-elmundo', function(done) {
     .on('close', done);
 });
 
+gulp.task('jekyll-build-correctiv', function(done) {
+  return cp.spawn('jekyll', ['build', '--config', '_config.yml,_config-correctiv.yml'], {stdio: 'inherit'})
+    .on('error', function(error){
+      gutil.log(gutil.colors.red(error.message));
+    })
+    .on('close', done);
+});
+
 // Special tasks for building and then reloading BrowserSync
 gulp.task('jekyll-rebuild', ['jekyll-build'], function(cb) {
   reload();
@@ -277,6 +285,18 @@ gulp.task('publish-elmundo', ['css', 'js', 'jekyll-build-elmundo'], function() {
     .pipe(version(['html','js','css']))
     .pipe(htmlmin({collapseWhitespace: true, removeComments: true}))
     .pipe(gulp.dest('_site'));
+});
+
+gulp.task('build-correctiv', ['css', 'js', 'jekyll-build-correctiv'], function() {
+  return gulp.src('_site/**/*.html')
+    .pipe(version(['html','js','css']))
+    .pipe(htmlmin({collapseWhitespace: true, removeComments: true}))
+    .pipe(gulp.dest('_site'));
+});
+
+gulp.task('publish-correctiv', ['build-correctiv'], function() {
+  return gulp.src('_site/**/*')
+    .pipe(ghPages({remoteUrl: 'git@github.com:correctiv/medicamentalia.git'}));
 });
 
 // Publish site folder in gh-pages branch
