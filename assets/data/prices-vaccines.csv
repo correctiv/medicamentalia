@@ -1,0 +1,312 @@
+country,vaccine,year,doses,price,company,company2,company3,name_en,name_es
+ESP,yellow,2016,,13.88,Sanofi,,,Spain,España
+ESP,VPH,2015-2016,,29.16,GSK,Sanofi,,Spain,España
+ESP,Varicela,2015-2016,,27.5,GSK,Sanofi,,Spain,España
+ESP,tifus,2015-2016,,8.51,GSK,Sanofi,,Spain,España
+ESP,Tdap,2015-2016,,8.85,GSK,,,Spain,España
+ESP,pneumo23,2016,,10,Sanofi,,,Spain,España
+ESP,pneumo13,2016,217500,42.85,Pfizer,,,Spain,España
+ESP,MMR,2015-2016,,6.84,GSK,Sanofi,,Spain,España
+ESP,MenC,2015-2016,,14.45,Baxter,Novartis,,Spain,España
+ESP,MenB,2016,,68,GSK,,,Spain,España
+ESP,MenACYW,2015-2016,,32.3,GSK,Novartis,,Spain,España
+ESP,Japanese,2015-2016,,54.9,Novartis,,,Spain,España
+ESP,IPV,2016,,9,Sanofi,,,Spain,España
+ESP,Hib,2015-2016,,7.69,GSK,,,Spain,España
+ESP,HepB-pediátrica,2015-2016,,4.9,GSK,Sanofi,,Spain,España
+ESP,HepB-otros,2015-2016,,22.77,GSK,Sanofi,,Spain,España
+ESP,HepB-adulto,2015-2016,,7.64,GSK,Sanofi,,Spain,España
+ESP,HepAinfantil,2016,,11.66,GSK,,,Spain,España
+ESP,HepAadulto,2016,,13.85,GSK,,,Spain,España
+ESP,DTPa-IPV-Hib,2015-2016,,22.43,GSK,Sanofi,,Spain,España
+ESP,DTP-Hib-IPV-HEpB,2015-2016,,28.66,GSK,Sanofi,,Spain,España
+ESP,DTaP,2015-2016,,13.28,GSK,,,Spain,España
+ESP,DT,2015-2016,,4.41,GSK,Sanofi,,Spain,España
+HUN,tifus,2015,500,13.22,Hungaropharma,,,Hungary,Hungría
+HUN,rabia,2015,20000,28.05,Novartis,,,Hungary,Hungría
+HUN,IPV,2015,3000,9.5,Hungaropharma,,,Hungary,Hungría
+HUN,HepB-adulto,2016,2000,9.45,GSK,,,Hungary,Hungría
+HUN,HepA,2016,5000,15.97,GSK,,,Hungary,Hungría
+HUN,gripe,2016,4000,4.5,Hungaropharma,,,Hungary,Hungría
+HUN,DTPadult,2016,10000,14.91,GSK,,,Hungary,Hungría
+HUN,BCG,2016,400000,1.44,Hungaropharma,,,Hungary,Hungría
+ITA,yellow,2015,4660,12.72,Sanofi,,,Italy,Italia
+ITA,yellow,2015,12799,11.91,Sanofi,,,Italy,Italia
+ITA,yellow,2015,1004,13.34,Sanofi,,,Italy,Italia
+ITA,yellow,2015,17000,14,Sanofi,,,Italy,Italia
+ITA,tifus,2015,500,8.4,Paxvax,,,Italy,Italia
+ITA,tifus,2015,595,8.81,Sanofi,,,Italy,Italia
+ITA,tifus,2015,1000,9.22,Sanofi,,,Italy,Italia
+ITA,pneumo23,2015,500,18.4,Sanofi,,,Italy,Italia
+ITA,IPV,2015,300,10.63,Sanofi,,,Italy,Italia
+ITA,IPV,2015,400,6.68,Sanofi,,,Italy,Italia
+ITA,HepB-adulto,2015,1000,15.4,Sanofi,,,Italy,Italia
+ITA,HepA,2015,2000,26.18,Sanofi,,,Italy,Italia
+ITA,gripe,2015,1100,3,Sanofi,,,Italy,Italia
+ITA,DT,2015,900,2.39,Sanofi,,,Italy,Italia
+ITA,DT,2015,800,5.18,Sanofi,,,Italy,Italia
+ITA,?Men,2015,2000,40,GSK,,,Italy,Italia
+ITA,?Men,2015,300,34.39,Novartis,,,Italy,Italia
+MSF,BCG,2016,,0.11,,,,MSF,MSF
+MSF,Cholera,2016,,2.35,,,,MSF,MSF
+MSF,DTP,2016,,0.44,,,,MSF,MSF
+MSF,DTP-Hib-HepB,2016,,2.09,,,,MSF,MSF
+MSF,gripe,2016,,0.00,,,,MSF,MSF
+MSF,HepA,2016,,47.65,,,,MSF,MSF
+MSF,HepB-adulto,2016,,6.67,,,,MSF,MSF
+MSF,HepB-adulto,2016,,0.42,,,,MSF,MSF
+MSF,HepB-adulto,2016,,6.11,,,,MSF,MSF
+MSF,HepB-pedi-multidose,2016,,0.31,,,,MSF,MSF
+MSF,HepB-pediátrica,2016,,10.00,,,,MSF,MSF
+MSF,HepB-pediátrica,2016,,0.58,,,,MSF,MSF
+MSF,Hib,2016,,0.00,,,,MSF,MSF
+MSF,Japanese,2016,,89.89,,,,MSF,MSF
+MSF,Measles,2016,,0.00,,,,MSF,MSF
+MSF,Measles,2016,,0.33,,,,MSF,MSF
+MSF,MenA,2016,,0.00,,,,MSF,MSF
+MSF,MenA,2016,,0.77,,,,MSF,MSF
+MSF,MenA+C,2016,,0.00,,,,MSF,MSF
+MSF,MenA+C,2016,,1.12,,,,MSF,MSF
+MSF,MenACYW,2016,,31.82,,,,MSF,MSF
+MSF,MenACYW,2016,,10.01,,,,MSF,MSF
+MSF,MMR,2016,,3.18,,,,MSF,MSF
+MSF,MMR,2016,,1.34,,,,MSF,MSF
+MSF,pneumo23,2016,,10.00,,,,MSF,MSF
+MSF,rabia,2016,,16.24,,,,MSF,MSF
+MSF,rotavirus,2016,,2.84,,,,MSF,MSF
+MSF,TD,2016,,5.00,,,,MSF,MSF
+MSF,TD,2016,,0.19,,,,MSF,MSF
+MSF,TD,2016,,0.28,,,,MSF,MSF
+MSF,tetanus,2016,,2.59,,,,MSF,MSF
+MSF,tetanus,2016,,0.23,,,,MSF,MSF
+MSF,tifus,2016,,13.43,,,,MSF,MSF
+MSF,tifus,2016,,3.92,,,,MSF,MSF
+MSF,VPH,2016,,15.46,,,,MSF,MSF
+MSF,yellow,2016,,21.55,,,,MSF,MSF
+MSF,yellow,2016,,0.00,,,,MSF,MSF
+MSF,yellow,2016,,3.06,,,,MSF,MSF
+PAHO,BCG,2016,,0.14,,,,PAHO,OPS
+PAHO,Cholera,2016,,1.85,,,,PAHO,OPS
+PAHO,DT,2016,,0.11,,,,PAHO,OPS
+PAHO,DT,2016,,0.16,,,,PAHO,OPS
+PAHO,DTaP,2016,,10.93,,,,PAHO,OPS
+PAHO,DTaP,2016,,12.80,,,,PAHO,OPS
+PAHO,DTP,2016,,0.22,,,,PAHO,OPS
+PAHO,DTP-Hib,2016,,2.65,,,,PAHO,OPS
+PAHO,DTP-Hib-HepB,2016,,2.10,,,,PAHO,OPS
+PAHO,DTP-Hib-IPV-HEpB,2016,,19.00,,,,PAHO,OPS
+PAHO,DTPa-IPV,2016,,10.40,,,,PAHO,OPS
+PAHO,DTPa-IPV-Hib,2016,,13.00,,,,PAHO,OPS
+PAHO,gripe,2016,,3.90,,,,PAHO,OPS
+PAHO,gripe,2016,,2.80,,,,PAHO,OPS
+PAHO,gripe,2016,,3.95,,,,PAHO,OPS
+PAHO,gripe,2016,,1.98,,,,PAHO,OPS
+PAHO,gripe,2016,,1.40,,,,PAHO,OPS
+PAHO,HepA,2016,,12.00,,,,PAHO,OPS
+PAHO,HepA,2016,,8.40,,,,PAHO,OPS
+PAHO,HepB-adulto,2016,,0.33,,,,PAHO,OPS
+PAHO,HepB-adulto,2016,,0.25,,,,PAHO,OPS
+PAHO,HepB-pediátrica,2016,,0.22,,,,PAHO,OPS
+PAHO,Hib,2016,,2.05,,,,PAHO,OPS
+PAHO,IPV,2016,,2.80,,,,PAHO,OPS
+PAHO,IPV,2016,,1.90,,,,PAHO,OPS
+PAHO,MenACYW,2016,,26.00,,,,PAHO,OPS
+PAHO,MMR,2016,,6.00,,,,PAHO,OPS
+PAHO,MMR,2016,,2.37,,,,PAHO,OPS
+PAHO,MMR,2016,,1.15,,,,PAHO,OPS
+PAHO,MR,2016,,2.25,,,,PAHO,OPS
+PAHO,MR,2016,,0.61,,,,PAHO,OPS
+PAHO,Oral polio,2016,,0.14,,,,PAHO,OPS
+PAHO,Oral polio,2016,,0.13,,,,PAHO,OPS
+PAHO,pneumo23,2016,,7.62,,,,PAHO,OPS
+PAHO,pneumo23,2016,,7.45,,,,PAHO,OPS
+PAHO,rabia,2016,,11.65,,,,PAHO,OPS
+PAHO,rotavirus,2016,,6.50,,,,PAHO,OPS
+PAHO,tifus,2016,,8.90,,,,PAHO,OPS
+PAHO,Varicela,2016,,14.85,,,,PAHO,OPS
+PAHO,VPH,2016,,8.50,,,,PAHO,OPS
+PAHO,yellow,2016,,1.11,,,,PAHO,OPS
+POL,Varicela,2016,20000,32.59,GSK,,,Poland,Polonia
+POL,Varicela,2016,18000,34.23,GSK,,,Poland,Polonia
+POL,tetanus,2016,300000,1.59,IBSS BIOMED,,,Poland,Polonia
+POL,tetanus,2016,300000,0.45,IBSS BIOMED,,,Poland,Polonia
+POL,Tdap,2016,65670,14.83,GSK,,,Poland,Polonia
+POL,Tdap,2016,,12.13,Sanofi,,,Poland,Polonia
+POL,pneumo13,2016,1200000,19.45,GSK,,,Poland,Polonia
+POL,MMR,2017,100000,5,GSK,,,Poland,Polonia
+POL,MenC,2016,15000,24.49,PGF Urtica,,,Poland,Polonia
+POL,IPV,2016,350000,4.13,Sanofi,,,Poland,Polonia
+POL,Hib,2016,55000,4.71,Sanofi,,,Poland,Polonia
+POL,DTPa-IPV-Hib,2016,21619,25.77,GSK,,,Poland,Polonia
+POL,DTPa-IPV,2016,131000,13.62,Sanofi,,,Poland,Polonia
+POL,DTP,2016,190000,5.39,IBSS BIOMED,,,Poland,Polonia
+POL,DT,2016,200,34.89,IBSS BIOMED,,,Poland,Polonia
+POL,diphteria,2016,150000,1.82,IBSS BIOMED,,,Poland,Polonia
+POL,BCG,2016,200000,0.5,BIOMED - LUBLIN,,,Poland,Polonia
+PRT,yellow,2016,200,20,GSK,,,Portugal,Portugal
+PRT,yellow,2016,4400,20,Sanofi,,,Portugal,Portugal
+PRT,VPH,2016,64000,22,Sanofi,,,Portugal,Portugal
+PRT,Tdap,2017,17500,13.21,GSK,,,Portugal,Portugal
+PRT,pneumo13,2016,750,45.74,GSK,,,Portugal,Portugal
+PRT,pneumo13,2016,99261,45.73,Pfizer,,,Portugal,Portugal
+PRT,Others,2016,100,8.19,GSK,,,Portugal,Portugal
+PRT,MMR,2016,12612,6.38,GSK,,,Portugal,Portugal
+PRT,MenC,2016,1530,8.1,GSK,,,Portugal,Portugal
+PRT,HepB-pediátrica,2016,14700,4.44,GSK,,,Portugal,Portugal
+PRT,HepB-adulto,2016,2350,6.42,GSK,,,Portugal,Portugal
+PRT,gripe,2016,350000,2.58,BGP Produts,,,Portugal,Portugal
+PRT,DTPa-IPV-Hib,2016,26600,18.99,GSK,,,Portugal,Portugal
+PRT,DTPa-IPV,2016,270,13.29,GSK,,,Portugal,Portugal
+PRT,DTPa-IPV,2016,3405,15,Sanofi,,,Portugal,Portugal
+PRT,DTP-IPV,2016,33374,13.29,Sanofi,,,Portugal,Portugal
+PRT,DTP-Hib-IPV-HEpB,2017,1293,39.37,GSK,,,Portugal,Portugal
+PRT,DTP-Hib,2016,241,14.84,GSK,,,Portugal,Portugal
+PRT,DTaP,2016,200,8.6,GSK,,,Portugal,Portugal
+PRT,DT,2016,4300,2.9,GSK,,,Portugal,Portugal
+PRT,BCG,2016,30,8.9,GSK,,,Portugal,Portugal
+PRT,BCG,2017,3750,25,"J. M. FARMACÊUTICA, S.A.",,,Portugal,Portugal
+UKR,TD,2016,150,4.04,"Municipal enterprise ""Lugansk Regional"" Pharmacy North",,,Ukraine,Ucrania
+UKR,Others,2016,209,3.32,"Ltd. ""Immuno-Pharm""",,,Ukraine,Ucrania
+UKR,Others,2016,60,3.83,"Ltd. ""Immuno-Pharm""",,,Ukraine,Ucrania
+UKR,Others,2016,4680,0.56,"Ltd. ""Valanjou Farm""",,,Ukraine,Ucrania
+UKR,HepB-pediátrica,2016,650,2.06,"Ltd. ""Immuno-Pharm""",,,Ukraine,Ucrania
+UKR,HepA,2016,266,12.26,"Ltd. ""Immuno-Pharm""",,,Ukraine,Ucrania
+UKR,gripe,2016,285,5.38,"LLC ""Vostok-Farm""",,,Ukraine,Ucrania
+UKR,gripe,2016,100,4.52,Ltd. Alta C,,,Ukraine,Ucrania
+UKR,gripe,2016,500,4.99,N/A,,,Ukraine,Ucrania
+UKR,gripe,2016,671,5.01,Sanofi,,,Ukraine,Ucrania
+UKR,DTPa-IPV-Hib,2016,150,22.15,Sanofi,,,Ukraine,Ucrania
+UNICEF,BCG,2016,"123000000",0.07,GreenSignal Bio Pharma Limited,,,UNICEF,UNICEF
+UNICEF,BCG,2016,"123000000",0.08,Intervax Biol. Ltd.,,,UNICEF,UNICEF
+UNICEF,BCG,2016,"123000000",0.16,Japan BCG Laboratory,,,UNICEF,UNICEF
+UNICEF,BCG,2016,"123000000",0.10,Serum Institute of India Pvt. Ltd.,,,UNICEF,UNICEF
+UNICEF,DT,2016,"1300000",0.14,Intervax Biol. Ltd.,,,UNICEF,UNICEF
+UNICEF,DTP,2016,"6000000",0.21,PT Bio Farma (Persero),,,UNICEF,UNICEF
+UNICEF,DTP,2016,"2153000",0.20,Serum Institute of India Pvt. Ltd.,,,UNICEF,UNICEF
+UNICEF,DTP-Hib-HepB,2016,"65000000",2.35,Berna Biotech Korea Corp.,,,UNICEF,UNICEF
+UNICEF,DTP-Hib-HepB,2016,"65000000",2.25,Biological E. Limited,,,UNICEF,UNICEF
+UNICEF,DTP-Hib-HepB,2016,"135000000",1.15,Biological E. Limited,,,UNICEF,UNICEF
+UNICEF,DTP-Hib-HepB,2016,"1000000",1.94,LG Life Sciences Ltd.,,,UNICEF,UNICEF
+UNICEF,DTP-Hib-HepB,2016,"135000000",1.94,Panacea Biotec Ltd.,,,UNICEF,UNICEF
+UNICEF,DTP-Hib-HepB,2016,"65000000",2.25,Serum Institute of India Pvt. Ltd.,,,UNICEF,UNICEF
+UNICEF,DTP-Hib-HepB,2016,"135000000",1.50,Serum Institute of India Pvt. Ltd.,,,UNICEF,UNICEF
+UNICEF,DTP-Hib-HepB,2016,"135000000",1.65,Shantha Biotechnics Limited,,,UNICEF,UNICEF
+UNICEF,HepB-pediátrica,2016,"1350000",0.42,LG Life Sciences Ltd.,,,UNICEF,UNICEF
+UNICEF,HepB-pediátrica,2016,"18000000",0.17,LG Life Sciences Ltd.,,,UNICEF,UNICEF
+UNICEF,HepB-pediátrica,2016,"2015000",0.20,Serum Institute of India Pvt. Ltd.,,,UNICEF,UNICEF
+UNICEF,IPV,2016,"97649000",2.80,Bilthoven Biologicals,,,UNICEF,UNICEF
+UNICEF,IPV,2016,"97649000",1.90,Bilthoven Biologicals,,,UNICEF,UNICEF
+UNICEF,IPV,2016,"97649000",0.80,Sanofi,,,UNICEF,UNICEF
+UNICEF,IPV1,2016,"97649000",1.59,Sanofi,,,UNICEF,UNICEF
+UNICEF,IPV2,2016,"97649000",2.55,Sanofi,,,UNICEF,UNICEF
+UNICEF,IPV3,2016,"97649000",2.05,Sanofi,,,UNICEF,UNICEF
+UNICEF,Measles,2016,"15000000",0.23,PT Bio Farma (Persero),,,UNICEF,UNICEF
+UNICEF,Measles,2016,"190000000",0.28,Serum Institute of India Pvt. Ltd.,,,UNICEF,UNICEF
+UNICEF,MenA,2016,"66875000",0.64,Serum Institute of India Pvt. Ltd.,,,UNICEF,UNICEF
+UNICEF,MMR,2016,"750000",3.25,GSK,,,UNICEF,UNICEF
+UNICEF,MMR,2016,"855000",2.37,Serum Institute of India Pvt. Ltd.,,,UNICEF,UNICEF
+UNICEF,MMR,2016,"4225000",1.15,Serum Institute of India Pvt. Ltd.,,,UNICEF,UNICEF
+UNICEF,MMR,2016,"9410000",1.13,Serum Institute of India Pvt. Ltd.,,,UNICEF,UNICEF
+UNICEF,MR,2016,"236515000",0.61,Serum Institute of India Pvt. Ltd.,,,UNICEF,UNICEF
+UNICEF,Oral polio,2016,"40000000",0.18,GSK,,,UNICEF,UNICEF
+UNICEF,Oral polio,2016,"335000000",0.14,GSK,,,UNICEF,UNICEF
+UNICEF,Oral polio,2016,"200000000",0.12,PT Bio Farma (Persero),,,UNICEF,UNICEF
+UNICEF,Oral polio,2016,"560000000",0.14,Sanofi,,,UNICEF,UNICEF
+UNICEF,Oral polio,2016,"40000000",0.19,Serum Institute of India Pvt. Ltd.,,,UNICEF,UNICEF
+UNICEF,Oral polio,2016,"130000000",0.12,Serum Institute of India Pvt. Ltd.,,,UNICEF,UNICEF
+UNICEF,Oral polio,2016,"150000000",0.14,Serum Institute of India Pvt. Ltd.,,,UNICEF,UNICEF
+UNICEF,pneumo10,2016,"72000000",7.00,GSK,,,UNICEF,UNICEF
+UNICEF,pneumo13,2016,"74000000",7.00,Pfizer,,,UNICEF,UNICEF
+UNICEF,rabia,2016,"4000",8.00,Serum Institute of India Pvt. Ltd.,,,UNICEF,UNICEF
+UNICEF,rotavirus,2016,"50000000",2.00,GSK,,,UNICEF,UNICEF
+UNICEF,rotavirus,2016,"6206700",5.00,Merck,,,UNICEF,UNICEF
+UNICEF,TD,2016,"136100000",0.15,Intervax Biol. Ltd.,,,UNICEF,UNICEF
+UNICEF,TD,2016,"136100000",0.11,PT Bio Farma (Persero),,,UNICEF,UNICEF
+UNICEF,TD,2016,"136100000",0.13,Serum Institute of India Pvt. Ltd.,,,UNICEF,UNICEF
+UNICEF,tetanus,2016,"28100000",0.10,Biological E. Limited,,,UNICEF,UNICEF
+UNICEF,tetanus,2016,"5000000",0.08,Biological E. Limited,,,UNICEF,UNICEF
+UNICEF,tetanus,2016,"28100000",0.11,Intervax Biol. Ltd.,,,UNICEF,UNICEF
+UNICEF,tetanus,2016,"15000000",0.06,Intervax Biol. Ltd.,,,UNICEF,UNICEF
+UNICEF,tetanus,2016,"28100000",0.13,Serum Institute of India Pvt. Ltd.,,,UNICEF,UNICEF
+UNICEF,tetanus,2016,"10000000",0.09,Serum Institute of India Pvt. Ltd.,,,UNICEF,UNICEF
+UNICEF,tetanus,2016,"28100000",0.10,Shantha Biotechnics Limited,,,UNICEF,UNICEF
+UNICEF,VPH,2016,"20000000",4.60,GSK,,,UNICEF,UNICEF
+UNICEF,VPH,2016,"9000000",4.50,Merck,,,UNICEF,UNICEF
+UNICEF,yellow,2016,"12000000",0.42,Federal State Unitary Enterprise of Chumakov Institute of Poliomyelitis and Viral Encephalitides of Russian Acad. Med. Sci.,,,UNICEF,UNICEF
+UNICEF,yellow,2016,"76640000",0.84,Federal State Unitary Enterprise of Chumakov Institute of Poliomyelitis and Viral Encephalitides of Russian Acad. Med. Sci.,,,UNICEF,UNICEF
+UNICEF,yellow,2016,"65640000",1.19,Institut Pasteur de Dakar,,,UNICEF,UNICEF
+UNICEF,yellow,2016,"23042000",1.20,Sanofi,,,UNICEF,UNICEF
+USA,zoster,2017,,110.44,Merck,,,USA,EE.UU.
+USA,VPH,2017,,125.65,Merck,,,USA,EE.UU.
+USA,VPH,2017,,109.58,Merck,,,USA,EE.UU.
+USA,Varicela,2017,,83.12,Merck,,,USA,EE.UU.
+USA,Varicela,2017,,62.26,Merck,,,USA,EE.UU.
+USA,Tdap,2017,,27.63,GSK,,,USA,EE.UU.
+USA,Tdap,2017,,20.98,GSK,,,USA,EE.UU.
+USA,Tdap,2017,,21.43,GSK,,,USA,EE.UU.
+USA,Tdap,2017,,20.38,Sanofi,,,USA,EE.UU.
+USA,rotavirus,2017,,81.61,GSK,,,USA,EE.UU.
+USA,rotavirus,2017,,62.39,Merck,,,USA,EE.UU.
+USA,pneumo23,2017,,43.32,Merck,,,USA,EE.UU.
+USA,pneumo23,2017,,24.1,Merck,,,USA,EE.UU.
+USA,pneumo13adult,2017,,90.92,Pfizer,,,USA,EE.UU.
+USA,pneumo13,2017,,113.54,Pfizer,,,USA,EE.UU.
+USA,MMRadult,2017,,35.82,Merck,,,USA,EE.UU.
+USA,MMR + varicella,2017,,105.58,Merck,,,USA,EE.UU.
+USA,MMR,2017,,16.95,Merck,,,USA,EE.UU.
+USA,MenCYHibT,2017,,8.57,GSK,,,USA,EE.UU.
+USA,MenB,2017,,92.77,GSK,,,USA,EE.UU.
+USA,MenB,2017,,99.95,GSK,,,USA,EE.UU.
+USA,MenB,2017,,100.15,GSK,,,USA,EE.UU.
+USA,MenB,2017,,90.16,Pfizer,,,USA,EE.UU.
+USA,MenB,2017,,77.32,Pfizer,,,USA,EE.UU.
+USA,MenACYW,2017,,65.47,GSK,,,USA,EE.UU.
+USA,MenACYW,2017,,64.12,GSK,,,USA,EE.UU.
+USA,MenACYW,2017,,69.83,Sanofi,,,USA,EE.UU.
+USA,MenACYW,2017,,83.9,Sanofi,,,USA,EE.UU.
+USA,IPV,2017,,11.36,Sanofi,,,USA,EE.UU.
+USA,Hib,2017,,8.27,GSK,,,USA,EE.UU.
+USA,Hib,2017,,11.13,Merck,,,USA,EE.UU.
+USA,Hib,2017,,8.35,Sanofi,,,USA,EE.UU.
+USA,HepB-pediátrica,2017,,10.3,GSK,,,USA,EE.UU.
+USA,HepB-pediátrica,2017,,10.96,Merck,,,USA,EE.UU.
+USA,HepB-adulto,2017,,23.33,GSK,,,USA,EE.UU.
+USA,HepB-adulto,2017,,26.38,GSK,,,USA,EE.UU.
+USA,HepB-adulto,2017,,21.86,Merck,,,USA,EE.UU.
+USA,HepB-adulto,2017,,25.6,Merck,,,USA,EE.UU.
+USA,HepAinfantil,2017,,16.21,GSK,,,USA,EE.UU.
+USA,HepAadult,2017,,23.71,GSK,,,USA,EE.UU.
+USA,HepAadult,2017,,25.56,GSK,,,USA,EE.UU.
+USA,HepAadult,2017,,50.45,GSK,,,USA,EE.UU.
+USA,HepA,2017,,16.21,GSK,,,USA,EE.UU.
+USA,HepA,2017,,51.1,GSK,,,USA,EE.UU.
+USA,HepA,2017,,16.59,Merck,,,USA,EE.UU.
+USA,HepA,2017,,25.56,Merck,,,USA,EE.UU.
+USA,HepA,2017,,23.71,Merck,,,USA,EE.UU.
+USA,gripe,2017,,12.98,GSK,,,USA,EE.UU.
+USA,gripe,2017,,12.15,GSK,,,USA,EE.UU.
+USA,gripe,2017,,11.36,GSK,,,USA,EE.UU.
+USA,gripe,2017,,10.45,GSK,,,USA,EE.UU.
+USA,gripe,2017,,6.16,Novartis,,,USA,EE.UU.
+USA,gripe,2017,,12.9,Novartis,,,USA,EE.UU.
+USA,gripe,2017,,23.08,Protein Sciences,,,USA,EE.UU.
+USA,gripe,2017,,12.36,Sanofi,,,USA,EE.UU.
+USA,gripe,2017,,17.45,Sanofi,,,USA,EE.UU.
+USA,gripe,2017,,13.45,Sanofi,,,USA,EE.UU.
+USA,gripe,2017,,14.3,Sanofi,,,USA,EE.UU.
+USA,gripe,2017,,11.21,Sanofi,,,USA,EE.UU.
+USA,gripe,2017,,12.54,Sanofi,,,USA,EE.UU.
+USA,gripe,2017,,12.17,Sanofi,,,USA,EE.UU.
+USA,gripe,2017,,6.87,"Seqirus USA, Inc",,,USA,EE.UU.
+USA,gripe,2017,,6.16,"Seqirus USA, Inc",,,USA,EE.UU.
+USA,DTPa-IPV-Hib,2017,,50.45,Sanofi,,,USA,EE.UU.
+USA,DTPa-IPV,2017,,34.7,GSK,,,USA,EE.UU.
+USA,DTP-IPV-HepB,2017,,48.54,GSK,,,USA,EE.UU.
+USA,DTaP,2017,,13.86,GSK,,,USA,EE.UU.
+USA,DTaP,2017,,13.74,Sanofi,,,USA,EE.UU.
+USA,Tdap,2017,,27.63,Sanofi,,,USA,EE.UU.
+USA,DT,2017,,11.1,Grifols,,,USA,EE.UU.
+USA,DT,2017,,10.45,Grifols,,,USA,EE.UU.
+USA,DT,2017,,10.22,Sanofi,,,USA,EE.UU.
+USA,DT,2017,,10.4,Sanofi,,,USA,EE.UU.
+USA,DT,2017,,17.26,Sanofi,,,USA,EE.UU.

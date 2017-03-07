@@ -1,149 +1,179 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://medicamentalia.org/access/compulsory-license</loc>
-    <lastmod>2017-02-11T19:17:56+01:00</lastmod>
+    <loc>http://localhost:3000/access/compulsory-license</loc>
+    <lastmod>2017-03-07T12:23:37-05:00</lastmod>
     <changefreq>never</changefreq>
     <priority>1.0</priority>
   </url><url>
-    <loc>http://medicamentalia.org/access/licencia-obligatoria</loc>
-    <lastmod>2017-02-11T19:17:56+01:00</lastmod>
+    <loc>http://localhost:3000/access/licencia-obligatoria</loc>
+    <lastmod>2017-03-07T12:23:37-05:00</lastmod>
     <changefreq>never</changefreq>
     <priority>1.0</priority>
   </url><url>
-    <loc>http://medicamentalia.org/access/counterfeits</loc>
-    <lastmod>2017-02-11T19:17:56+01:00</lastmod>
+    <loc>http://localhost:3000/access/counterfeits</loc>
+    <lastmod>2017-03-07T12:23:37-05:00</lastmod>
     <changefreq>never</changefreq>
     <priority>1.0</priority>
   </url><url>
-    <loc>http://medicamentalia.org/access/falsificaciones</loc>
-    <lastmod>2017-02-11T19:17:56+01:00</lastmod>
+    <loc>http://localhost:3000/access/falsificaciones</loc>
+    <lastmod>2017-03-07T12:23:37-05:00</lastmod>
     <changefreq>never</changefreq>
     <priority>1.0</priority>
   </url><url>
-    <loc>http://medicamentalia.org/access/patents</loc>
-    <lastmod>2017-02-11T19:17:56+01:00</lastmod>
+    <loc>http://localhost:3000/access/patents</loc>
+    <lastmod>2017-03-07T12:23:37-05:00</lastmod>
     <changefreq>never</changefreq>
     <priority>1.0</priority>
   </url><url>
-    <loc>http://medicamentalia.org/access/patentes</loc>
-    <lastmod>2017-02-11T19:17:56+01:00</lastmod>
+    <loc>http://localhost:3000/access/patentes</loc>
+    <lastmod>2017-03-07T12:23:37-05:00</lastmod>
     <changefreq>never</changefreq>
     <priority>1.0</priority>
   </url><url>
-    <loc>http://medicamentalia.org/prices-iframe</loc>
-    <lastmod>2017-02-11T19:17:56+01:00</lastmod>
+    <loc>http://localhost:3000/prices-iframe</loc>
+    <lastmod>2017-03-07T12:23:37-05:00</lastmod>
     <changefreq>never</changefreq>
     <priority>1.0</priority>
   </url><url>
-    <loc>http://medicamentalia.org/precios-iframe</loc>
-    <lastmod>2017-02-11T19:17:56+01:00</lastmod>
+    <loc>http://localhost:3000/precios-iframe</loc>
+    <lastmod>2017-03-07T12:23:37-05:00</lastmod>
     <changefreq>never</changefreq>
     <priority>1.0</priority>
   </url><url>
-    <loc>http://medicamentalia.org/access/prices</loc>
-    <lastmod>2017-02-11T19:17:56+01:00</lastmod>
+    <loc>http://localhost:3000/access/prices</loc>
+    <lastmod>2017-03-07T12:23:37-05:00</lastmod>
     <changefreq>never</changefreq>
     <priority>1.0</priority>
   </url><url>
-    <loc>http://medicamentalia.org/access/precios</loc>
-    <lastmod>2017-02-11T19:17:56+01:00</lastmod>
+    <loc>http://localhost:3000/access/precios</loc>
+    <lastmod>2017-03-07T12:23:37-05:00</lastmod>
     <changefreq>never</changefreq>
     <priority>1.0</priority>
   </url><url>
-    <loc>http://medicamentalia.org/access/team</loc>
-    <lastmod>2017-02-11T19:17:56+01:00</lastmod>
+    <loc>http://localhost:3000/access/team</loc>
+    <lastmod>2017-03-07T12:23:37-05:00</lastmod>
     <changefreq>never</changefreq>
     <priority>1.0</priority>
   </url><url>
-    <loc>http://medicamentalia.org/access/nosotros</loc>
-    <lastmod>2017-02-11T19:17:56+01:00</lastmod>
+    <loc>http://localhost:3000/access/nosotros</loc>
+    <lastmod>2017-03-07T12:23:37-05:00</lastmod>
     <changefreq>never</changefreq>
     <priority>1.0</priority>
   </url><url>
-    <loc>http://medicamentalia.org/superbugs</loc>
-    <lastmod>2017-02-11T19:17:56+01:00</lastmod>
+    <loc>http://localhost:3000/superbugs</loc>
+    <lastmod>2017-03-07T12:23:37-05:00</lastmod>
     <changefreq>never</changefreq>
     <priority>1.0</priority>
   </url><url>
-    <loc>http://medicamentalia.org/superbacterias</loc>
-    <lastmod>2017-02-11T19:17:56+01:00</lastmod>
+    <loc>http://localhost:3000/superbacterias</loc>
+    <lastmod>2017-03-07T12:23:37-05:00</lastmod>
     <changefreq>never</changefreq>
     <priority>1.0</priority>
   </url><url>
-    <loc>http://medicamentalia.org/vaccines/antivaccines</loc>
-    <lastmod>2017-02-11T19:17:56+01:00</lastmod>
+    <loc>http://localhost:3000/vaccines/antivaccines</loc>
+    <lastmod>2017-03-07T12:23:37-05:00</lastmod>
     <changefreq>never</changefreq>
     <priority>1.0</priority>
   </url><url>
-    <loc>http://medicamentalia.org/vaccines/antivacunas</loc>
-    <lastmod>2017-02-11T19:17:56+01:00</lastmod>
+    <loc>http://localhost:3000/vaccines/antivacunas</loc>
+    <lastmod>2017-03-07T12:23:37-05:00</lastmod>
     <changefreq>never</changefreq>
     <priority>1.0</priority>
   </url><url>
-    <loc>http://medicamentalia.org/vaccines/immunization</loc>
-    <lastmod>2017-02-11T19:17:56+01:00</lastmod>
+    <loc>http://localhost:3000/vaccines/immunization</loc>
+    <lastmod>2017-03-07T12:23:37-05:00</lastmod>
     <changefreq>never</changefreq>
     <priority>1.0</priority>
   </url><url>
-    <loc>http://medicamentalia.org/vaccines/inmunizacion</loc>
-    <lastmod>2017-02-11T19:17:56+01:00</lastmod>
+    <loc>http://localhost:3000/vaccines/inmunizacion</loc>
+    <lastmod>2017-03-07T12:23:37-05:00</lastmod>
     <changefreq>never</changefreq>
     <priority>1.0</priority>
   </url><url>
-    <loc>http://medicamentalia.org/vaccines/successes</loc>
-    <lastmod>2017-02-11T19:17:56+01:00</lastmod>
+    <loc>http://localhost:3000/vaccines/hpv</loc>
+    <lastmod>2017-03-07T12:23:37-05:00</lastmod>
     <changefreq>never</changefreq>
     <priority>1.0</priority>
   </url><url>
-    <loc>http://medicamentalia.org/vaccines/exitos</loc>
-    <lastmod>2017-02-11T19:17:56+01:00</lastmod>
+    <loc>http://localhost:3000/vaccines/vph</loc>
+    <lastmod>2017-03-07T12:23:37-05:00</lastmod>
     <changefreq>never</changefreq>
     <priority>1.0</priority>
   </url><url>
-    <loc>http://medicamentalia.org/vaccines/team</loc>
-    <lastmod>2017-02-11T19:17:56+01:00</lastmod>
+    <loc>http://localhost:3000/vaccines/prices</loc>
+    <lastmod>2017-03-07T12:23:37-05:00</lastmod>
     <changefreq>never</changefreq>
     <priority>1.0</priority>
   </url><url>
-    <loc>http://medicamentalia.org/vaccines/nosotros</loc>
-    <lastmod>2017-02-11T19:17:56+01:00</lastmod>
+    <loc>http://localhost:3000/vaccines/precios</loc>
+    <lastmod>2017-03-07T12:23:37-05:00</lastmod>
+    <changefreq>never</changefreq>
+    <priority>1.0</priority>
+  </url><url>
+    <loc>http://localhost:3000/vaccines/stockout</loc>
+    <lastmod>2017-03-07T12:23:37-05:00</lastmod>
+    <changefreq>never</changefreq>
+    <priority>1.0</priority>
+  </url><url>
+    <loc>http://localhost:3000/vaccines/desabastecimiento</loc>
+    <lastmod>2017-03-07T12:23:37-05:00</lastmod>
+    <changefreq>never</changefreq>
+    <priority>1.0</priority>
+  </url><url>
+    <loc>http://localhost:3000/vaccines/successes</loc>
+    <lastmod>2017-03-07T12:23:37-05:00</lastmod>
+    <changefreq>never</changefreq>
+    <priority>1.0</priority>
+  </url><url>
+    <loc>http://localhost:3000/vaccines/exitos</loc>
+    <lastmod>2017-03-07T12:23:37-05:00</lastmod>
+    <changefreq>never</changefreq>
+    <priority>1.0</priority>
+  </url><url>
+    <loc>http://localhost:3000/vaccines/team</loc>
+    <lastmod>2017-03-07T12:23:37-05:00</lastmod>
+    <changefreq>never</changefreq>
+    <priority>1.0</priority>
+  </url><url>
+    <loc>http://localhost:3000/vaccines/nosotros</loc>
+    <lastmod>2017-03-07T12:23:37-05:00</lastmod>
     <changefreq>never</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>http://medicamentalia.org/access/</loc>
-    <lastmod>2017-02-11T19:17:56+01:00</lastmod>
+    <loc>http://localhost:3000/access/</loc>
+    <lastmod>2017-03-07T12:23:37-05:00</lastmod>
     <changefreq>never</changefreq>
     <priority>1.0</priority>
   </url><url>
-    <loc>http://medicamentalia.org/es/access/</loc>
-    <lastmod>2017-02-11T19:17:56+01:00</lastmod>
+    <loc>http://localhost:3000/es/access/</loc>
+    <lastmod>2017-03-07T12:23:37-05:00</lastmod>
     <changefreq>never</changefreq>
     <priority>1.0</priority>
   </url><url>
-    <loc>http://medicamentalia.org/es/</loc>
-    <lastmod>2017-02-11T19:17:56+01:00</lastmod>
+    <loc>http://localhost:3000/es/</loc>
+    <lastmod>2017-03-07T12:23:37-05:00</lastmod>
     <changefreq>never</changefreq>
     <priority>1.0</priority>
   </url><url>
-    <loc>http://medicamentalia.org/</loc>
-    <lastmod>2017-02-11T19:17:56+01:00</lastmod>
+    <loc>http://localhost:3000/</loc>
+    <lastmod>2017-03-07T12:23:37-05:00</lastmod>
     <changefreq>never</changefreq>
     <priority>1.0</priority>
   </url><url>
-    <loc>http://medicamentalia.org</loc>
-    <lastmod>2017-02-11T19:17:56+01:00</lastmod>
+    <loc>http://localhost:3000</loc>
+    <lastmod>2017-03-07T12:23:37-05:00</lastmod>
     <changefreq>never</changefreq>
     <priority>1.0</priority>
   </url><url>
-    <loc>http://medicamentalia.org/vaccines/</loc>
-    <lastmod>2017-02-11T19:17:56+01:00</lastmod>
+    <loc>http://localhost:3000/vaccines/</loc>
+    <lastmod>2017-03-07T12:23:37-05:00</lastmod>
     <changefreq>never</changefreq>
     <priority>1.0</priority>
   </url><url>
-    <loc>http://medicamentalia.org/es/vaccines/</loc>
-    <lastmod>2017-02-11T19:17:56+01:00</lastmod>
+    <loc>http://localhost:3000/es/vaccines/</loc>
+    <lastmod>2017-03-07T12:23:37-05:00</lastmod>
     <changefreq>never</changefreq>
     <priority>1.0</priority>
   </url>
