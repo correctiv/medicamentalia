@@ -4,7 +4,7 @@ category:         vaccines
 title:            Tote durch Gebärmutterhalskrebs
 slug:             gebaermutterhals-krebs
 ref:              immunization-coverage-graphic
-lang:             de
+lang:             en
 draft:            false
 ---
 

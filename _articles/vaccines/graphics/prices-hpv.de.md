@@ -9,5 +9,5 @@ draft:            false
 ---
 
 <div class="container page-content" markdown="1">
-{% include vaccines/prices-scatterplot.es.html id="vph" title="Preis pro HPV-Dosis" footer="<a href=\"https://medicamentalia.org/vaccines/team/#vph\">Methodologie</a>" legend=true %}
+{% include vaccines/prices-scatterplot.es.html id="vph" title="Preis pro HPV-Dosis" footer="<a href=\"https://medicamentalia.org/vaccines/team/#vph\" target=\"_blank\">Methodologie</a>" legend=true %}
 </div>
