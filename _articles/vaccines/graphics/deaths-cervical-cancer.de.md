@@ -9,5 +9,5 @@ draft:            false
 ---
 
 <div class="container page-content" markdown="1">
-{% include vaccines/vph_scatterplot_graph.de.html title="Deaths due to cervical cancer in 2015" description="Estimated deaths per 100,000 women ages 30 and over versus GDP of the country" %}
+{% include vaccines/vph_scatterplot_graph.de.html title="Tote durch Gebärmutterhalskrebs 2015" description="Geschätzte Tote pro 100.000 Frauen ab 30 im Vergleich zum Bruttosozialprodukt" %}
 </div>
